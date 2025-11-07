@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react'
+console.log("🔥 SPM.jsx reloaded test");
 import { fetchQuestion, generateMindmap } from '../api'
 import Timer from '../components/Timer'
 import Recorder from '../components/Recorder'
